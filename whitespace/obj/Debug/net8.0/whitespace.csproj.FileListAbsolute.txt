@@ -1,0 +1,15 @@
+C:\Users\paulg\Documents\CsharpProjects\foundational_C#\foundational_Csharp\whitespace\obj\Debug\net8.0\whitespace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulg\Documents\CsharpProjects\foundational_C#\foundational_Csharp\whitespace\obj\Debug\net8.0\whitespace.AssemblyInfoInputs.cache
+C:\Users\paulg\Documents\CsharpProjects\foundational_C#\foundational_Csharp\whitespace\obj\Debug\net8.0\whitespace.AssemblyInfo.cs
+C:\Users\paulg\Documents\CsharpProjects\foundational_C#\foundational_Csharp\whitespace\obj\Debug\net8.0\whitespace.csproj.CoreCompileInputs.cache
+C:\Users\paulg\Documents\CsharpProjects\foundational_C#\foundational_Csharp\whitespace\obj\Debug\net8.0\whitespace.sourcelink.json
+C:\Users\paulg\Documents\CsharpProjects\foundational_C#\foundational_Csharp\whitespace\bin\Debug\net8.0\whitespace.exe
+C:\Users\paulg\Documents\CsharpProjects\foundational_C#\foundational_Csharp\whitespace\bin\Debug\net8.0\whitespace.deps.json
+C:\Users\paulg\Documents\CsharpProjects\foundational_C#\foundational_Csharp\whitespace\bin\Debug\net8.0\whitespace.runtimeconfig.json
+C:\Users\paulg\Documents\CsharpProjects\foundational_C#\foundational_Csharp\whitespace\bin\Debug\net8.0\whitespace.dll
+C:\Users\paulg\Documents\CsharpProjects\foundational_C#\foundational_Csharp\whitespace\bin\Debug\net8.0\whitespace.pdb
+C:\Users\paulg\Documents\CsharpProjects\foundational_C#\foundational_Csharp\whitespace\obj\Debug\net8.0\whitespace.dll
+C:\Users\paulg\Documents\CsharpProjects\foundational_C#\foundational_Csharp\whitespace\obj\Debug\net8.0\refint\whitespace.dll
+C:\Users\paulg\Documents\CsharpProjects\foundational_C#\foundational_Csharp\whitespace\obj\Debug\net8.0\whitespace.pdb
+C:\Users\paulg\Documents\CsharpProjects\foundational_C#\foundational_Csharp\whitespace\obj\Debug\net8.0\whitespace.genruntimeconfig.cache
+C:\Users\paulg\Documents\CsharpProjects\foundational_C#\foundational_Csharp\whitespace\obj\Debug\net8.0\ref\whitespace.dll
