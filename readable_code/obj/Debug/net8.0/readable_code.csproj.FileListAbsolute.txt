@@ -1,0 +1,15 @@
+C:\Users\paulg\Documents\CsharpProjects\foundational_C#\foundational_Csharp\readable_code\obj\Debug\net8.0\readable_code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulg\Documents\CsharpProjects\foundational_C#\foundational_Csharp\readable_code\obj\Debug\net8.0\readable_code.AssemblyInfoInputs.cache
+C:\Users\paulg\Documents\CsharpProjects\foundational_C#\foundational_Csharp\readable_code\obj\Debug\net8.0\readable_code.AssemblyInfo.cs
+C:\Users\paulg\Documents\CsharpProjects\foundational_C#\foundational_Csharp\readable_code\obj\Debug\net8.0\readable_code.csproj.CoreCompileInputs.cache
+C:\Users\paulg\Documents\CsharpProjects\foundational_C#\foundational_Csharp\readable_code\obj\Debug\net8.0\readable_code.sourcelink.json
+C:\Users\paulg\Documents\CsharpProjects\foundational_C#\foundational_Csharp\readable_code\bin\Debug\net8.0\readable_code.exe
+C:\Users\paulg\Documents\CsharpProjects\foundational_C#\foundational_Csharp\readable_code\bin\Debug\net8.0\readable_code.deps.json
+C:\Users\paulg\Documents\CsharpProjects\foundational_C#\foundational_Csharp\readable_code\bin\Debug\net8.0\readable_code.runtimeconfig.json
+C:\Users\paulg\Documents\CsharpProjects\foundational_C#\foundational_Csharp\readable_code\bin\Debug\net8.0\readable_code.dll
+C:\Users\paulg\Documents\CsharpProjects\foundational_C#\foundational_Csharp\readable_code\bin\Debug\net8.0\readable_code.pdb
+C:\Users\paulg\Documents\CsharpProjects\foundational_C#\foundational_Csharp\readable_code\obj\Debug\net8.0\readable_code.dll
+C:\Users\paulg\Documents\CsharpProjects\foundational_C#\foundational_Csharp\readable_code\obj\Debug\net8.0\refint\readable_code.dll
+C:\Users\paulg\Documents\CsharpProjects\foundational_C#\foundational_Csharp\readable_code\obj\Debug\net8.0\readable_code.pdb
+C:\Users\paulg\Documents\CsharpProjects\foundational_C#\foundational_Csharp\readable_code\obj\Debug\net8.0\readable_code.genruntimeconfig.cache
+C:\Users\paulg\Documents\CsharpProjects\foundational_C#\foundational_Csharp\readable_code\obj\Debug\net8.0\ref\readable_code.dll
